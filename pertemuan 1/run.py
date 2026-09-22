@@ -1,0 +1,1 @@
+print("Saya menjalankan Python di VS Code")
