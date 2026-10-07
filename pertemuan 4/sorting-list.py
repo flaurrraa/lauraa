@@ -1,0 +1,5 @@
+list_1 = [10, 70, 20]
+
+list_1.sort()
+
+print(list_1)
